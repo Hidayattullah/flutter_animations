@@ -11,7 +11,8 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Flutter Animations Showcase test')),
+      appBar: AppBar(
+          title: const Text('Flutter Animations Showcase test versi terbaru')),
       body: const Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
